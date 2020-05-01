@@ -1,0 +1,441 @@
+#EXTM3U
+#EXTINF:0 group-title="WORLD" tvg-name="The Weather Channel" tvg-logo="https://yt3.ggpht.com/a/AGF-l7-zR5EOMwp534OWnoshlrdq3i52anAXxv7LNA=s900-c-k-c0xffffffff-no-rj-mo" , The Weather Channel
+http://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8
+#EXTINF:0 group-title="WORLD" tvg-id="The Weather Channel-US" tvg-name="The Weather Channel-US" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/weatherchannel.png" tvg-url="http://epg.streamstv.me/epg/guide-usa.xml.gz", The Weather Channel
+http://bit.ly/2wQwd1G
+#EXTINF:0 group-title="WORLD" tvg-name="Weather Nation" tvg-logo="https://i.imgur.com/uUb3vwe.png", Weather Nation
+http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/format/applehttp/protocol/http/uiConfId/28428751.m3u8
+#EXTINF:0 group-title="WORLD - ASIA" tvg-name="RT en español" tvg-logo="https://cdn.mitvstatic.com/channels/cl_rt-tv-russia-today_m.png" , RT en español
+https://rt-esp-gd.secure2.footprint.net/1102_2500Kb.m3u8
+#EXTINF:0 group-title="WORLD - ASIA" tvg-name="RT Documentary Channel" tvg-logo="https://cdn-profiles.tunein.com/s306623/images/logog.png" , RT Documentary Channel HD
+https://rt-doc.secure.footprint.net/1101_1600Kb.m3u8
+#EXTINF:0 group-title="WORLD - ASIA" tvg-name="RT Documentary" tvg-logo="https://i.ibb.co/hKDVdr3/rtru.jpg" , RT Documentary Channel
+https://rt-doc.secure.footprint.net/1101.m3u8
+#EXTINF:0 group-title="WORLD - ASIA" tvg-name="Mir 24 (Russia)" tvg-logo="https://news.rambler.ru/img/2018/11/10085104.637250.5913.png" , Mir 24 (Russia)
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
+#EXTINF:0 group-title="WORLD - ASIA" tvg-name="PTP HD (Russia)" tvg-logo="https://escbubble.com/wp-content/uploads/2014/08/Russia-RTR-TV.gif" , PTP HD (Russia)
+https://a635216505-s26881.cdn.ngenix.net/live/smil:rtrp.smil/chunklist_b1600000.m3u8
+#EXTINF:0 group-title="WORLD - ASIA" tvg-name="Moya Planet (Russia)" tvg-logo="https://rugrad.eu/upload/main/8bf/8bf09de3c09c797e4bbbf80036824404.png" , Moya Planet (Russia)
+http://cdnmg.secure.live.rtr-vesti.ru/live/smil:mplan.smil/master.m3u8
+#EXTINF:0 group-title="WORLD - ASIA" tvg-logo="https://escbubble.com/wp-content/uploads/2014/08/Russia-RTR-TV.gif" , PTP HD Russia
+https://a635216505-s26881.cdn.ngenix.net/live/smil:rtrp.smil/chunklist_b1600000.m3u8
+#EXTINF:0 group-title="WORLD - ASIA" tvg-name="Japanet Channel DX Japão" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-548-400x400.png" , Japanet Channel DX Japão
+http://bcsecurelivehls-i.akamaihd.net/hls/live/265320/5043843989001/140130JTDX/index_600.m3u8
+#EXTINF:0 group-title="WORLD - ASIA" tvg-name="NTV News24 Japão" tvg-logo="https://www.onia.tv/files/picture/2019-12-10/tvchannel_2019-12-10-13-48-07_1.jpg" , NTV News24 Japão
+type="stream"channelId="-1"tvg-name="NTVNews24Japão"group-title="WORLD - ASIA"tvg-logo="https://www.onia.tv/files/picture/2019-12-10/tvchannel_2019-12-10-13-48-07_1.jpg",NTVNews24Japão
+#EXTINF:0 group-title="WORLD - ASIA" tvg-name="JAPANET TAKADA HD" tvg-logo="https://secure.webtoolhub.com/static/resources/icons/set40/dbb6cbf2.png" , JAPANET TAKADA HD Japão
+https://bcsecurelivehls-i.akamaihd.net/hls/live/265320/5043843989001/140130JTDX/index_1200.m3u8
+#EXTINF:0 group-title="WORLD - ASIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/CGTN_Documentary_logo.png" , CGTN China
+https://live.cgtn.com/1000d/prog_index.m3u8
+#EXTINF:0 group-title="WORLD - ASIA" tvg-name="Arirang (Coreia)" tvg-logo="https://listaiptvbrasil.com/logo/arirang.png" , Arirang (Coreia)
+http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+#EXTINF:0 group-title="WORLD - ASIA" tvg-name="Times Now" tvg-logo="https://starsunfolded.com/wp-content/uploads/2018/05/Times-Now.jpg" , Times Now India
+https://timesnow-lh.akamaihd.net/i/TNHD_1@129288/master.m3u8
+#EXTINF:-1 group-title="WORLD - CANADA" tvg-logo="https://s.tou.tv/images/parcourir/web/parcourir_chaine_tele.jpg",ICI RDI Quebec
+https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master_2500.m3u8
+#EXTINF:0 group-title="WORLD - CANADA" tvg-name="noovo" tvg-logo="https://store-images.s-microsoft.com/image/apps.57025.13510798886402392.7dd7e169-7400-40e1-bc4a-87674c3951df.8f4b4d75-fb32-48af-b82a-b533a2bda203" , Noovo V-Télé Canada
+https://bcsecurelivehls-i.akamaihd.net/hls/live/551061/618566855001/master.m3u8
+#EXTINF:0 group-title="WORLD - CANADA" tvg-name="Télé-Quebec" tvg-logo="https://www.nwtel.ca/sites/default/files/channel-logos/tele-quebec.png" , Télé-Quebec 1
+https://teleqmmd.mmdlive.lldns.net/teleqmmd/f386e3b206814e1f8c8c1c71c0f8e748/chunklist_b1928000.m3u8
+#EXTINF:0 group-title="WORLD - CANADA" tvg-name="Télé-Quebec" tvg-logo="https://www.nwtel.ca/sites/default/files/channel-logos/tele-quebec.png" , Télé-Quebec 2
+https://teleqmmd.mmdlive.lldns.net/teleqmmd/f386e3b206814e1f8c8c1c71c0f8e748/chunklist_b2592000.m3u8
+#EXTINF:0 group-title="WORLD - CANADA" tvg-name="D5TV" tvg-logo="https://3.bp.blogspot.com/-MK-ceeNo4qE/XNo0HOs0Q1I/AAAAAAAAAPk/VQEKWAeZVz8WBa5CHJBUTOh4HPQ68BEnwCLcBGAs/s1600/3.jpg" , D5TV Canada
+https://live.creacast.com/d5tv/smil:d5tv.smil/master.m3u8
+#EXTINF:0 group-title="WORLD - CANADA" tvg-name="medi1-tv" tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/disp/8bcbfe19222481.562d6c1dcba3c.png" , Medi 1 TV Canada
+https://streaming.medi1tv.com/live/Medi1tvAfrique.sdp/master.m3u8
+#EXTINF:0 group-title="WORLD - CANADA" tvg-logo="https://lh3.googleusercontent.com/ueU1-Uf0-gY6ktpgJ3GE6wfcaG05ud8a6plswApnT9xiP0nKqQZICLAoo6eEJkFO4w0" , TV7 Colmar SD
+http://tv7.hdr-tv.com/live/tv7/livestream/playlist.m3u8
+#EXTINF:0 group-title="WORLD - CANADA" tvg-logo="https://lh3.googleusercontent.com/ueU1-Uf0-gY6ktpgJ3GE6wfcaG05ud8a6plswApnT9xiP0nKqQZICLAoo6eEJkFO4w0" , TV7 Colmar HD
+http://tv7.hdr-tv.com:1935/live/tv7/livestream/playlist.m3u8
+#EXTINF:0 group-title="WORLD - CANADA" tvg-name="cpac-fr" tvg-logo="https://pbs.twimg.com/profile_images/1146879128098000896/SnUP-VK1_400x400.jpg" , cpac Canada (FR)
+https://bcsecurelivehls-i.akamaihd.net/hls/live/680604/1242843915001_3//Assets_1572351842277/Layer3_master.m3u8
+#EXTINF:0 group-title="WORLD - CANADA" tvg-name="cpac-EN" tvg-logo="https://pbs.twimg.com/profile_images/1146879128098000896/SnUP-VK1_400x400.jpg" , cpac Canada (EN)
+https://bcsecurelivehls-i.akamaihd.net/hls/live/680602/1242843915001_1/master.m3u8
+#EXTINF:0 group-title="WORLD - CANADA" tvg-name="RTI 1" tvg-logo="https://2.bp.blogspot.com/-XcsWHyndUJ0/VLsK8l1LZYI/AAAAAAAAAHI/3TGCdLHRfSI/s1600/rti1.jpg" , RTI 1
+https://www.enovativecdn.com:4433/rticdn/smil:rti1.smil/master.m3u8
+#EXTINF:0 group-title="WORLD - CANADA" tvg-name="RTI 2" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/ci-rti-2.jpg" , RTI 2
+https://www.enovativecdn.com:4433/rticdn/smil:rti2.smil/playlist.m3u8
+#EXTINF:0 group-title="WORLD - CANADA" tvg-name="7 Entertainment TV" tvg-logo="https://l3.tikilive.com/public/files/shows/136/136271/42487-800x450-FFFFFF.jpg" , 7 Entertainment TV
+https://edge2.tikilive.com:1935/html5_tikilive/42487/amlst:mainstream/chunklist_w1695181920_b1047900.m3u8
+#EXTINF:0 group-title="WORLD - CANADA" tvg-name="The Shopping Channel" tvg-logo="https://www.save72.com/assets/uploads/0the-shopping-channel-online-deals-save72.jpg" , TSC Shopping Canada EN
+http://tscstreaming-lh.akamaihd.net/i/TSCLiveStreaming_1@91031/master.m3u8
+#EXTINF:0 group-title="WORLD - CANADA" tvg-name="CGTN English" tvg-logo="https://cdn.mhznetworks.com/wp-content/uploads/2018/03/cgtn-logo-300x300.jpg" , CGTN Canada EN
+https://live.cgtn.com/1000/prog_index.m3u8
+#EXTINF:0 group-title="WORLD - CANADA" tvg-name="CGTN French" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/cn-cgtn-francais-1807.jpg" , CGTN Canada FR
+https://news.cgtn.com/resource/live/french/cgtn-f.m3u8
+#EXTINF:0 group-title="WORLD - CANADA" tvg-name="CGTN Documentary" tvg-logo="https://i.ibb.co/DRWyZQB/cgtn-doc.jpg" , CGTN Documentary EN
+http://news.cgtn.com/resource/live/document/cgtn-doc.m3u8
+#EXTINF:-1 group-title="WORLD - CANADA" tvg-logo="https://amazingdiscoveries.org/assets/images/apps/adtv-android.png",Amazing Discoveries TV1
+https://uni01rtmp.tulix.tv/amazingdtv/amazingdtv/chunklist_w133198316.m3u8
+#EXTINF:-1 group-title="WORLD - CANADA" tvg-logo="https://amazingdiscoveries.org/assets/images/apps/adtv-android.png",Amazing Discoveries TV2
+https://uni01rtmp.tulix.tv/amazingdtv/amazingdtv/chunklist_w906756729.m3u8
+#EXTINF:-1 group-title="WORLD - CANADA" tvg-logo="https://i.ibb.co/zXVYLNh/canadastar.jpg",Canada Star TV
+http://live.canadastartv.com:1935/canadastartv/canadastartv/playlist.m3u
+#EXTINF:-1 group-title="WORLD - CANADA" tvg-logo="https://miraclechannel.ca/wp-content/uploads/2016/08/MC_Logo_Homepage_V2@3x.png",Miracle Channel Canada
+https://d9ruw6nhj5a52.cloudfront.net/live/live/playlist.m3u8
+#EXTINF:-1 group-title="WORLD - CANADA" tvg-logo="https://miraclechannel.ca/wp-content/uploads/2016/08/MC_Logo_Homepage_V2@3x.png",Miracle Channel Canada
+https://d9ruw6nhj5a52.cloudfront.net/live/smil:VODmultibitrate.smil/chunklist_wF1TV_b3000000_sleng.m3u8
+#EXTINF:-1 group-title="WORLD - CANADA" tvg-logo="https://pbs.twimg.com/profile_images/1110647508072583169/8OEOiaCU_400x400.png",Montreal Greek TV
+http://94.130.180.175:8081/live/greektv/playlist.m3u8
+#EXTINF:-1 group-title="WORLD - CANADA" tvg-logo="https://pbs.twimg.com/profile_images/668977343944261632/uTiDLkpJ_400x400.png",NTV Newfoundland
+https://2-fss-2.streamhoster.com/pl_138/201748-1282640-1/playlist.m3u8
+#EXTINF:-1 group-title="WORLD - CANADA" tvg-logo="https://i.ibb.co/DpkDTsh/QVTV.jpg",QVTV Canada
+https://qvmstream.tulix.tv/720p/720p/chunklist_w1600218747.m3u8
+#EXTINF:0 group-title="WORLD - EUROPA" tvg-name="TV5 Monde" tvg-logo="https://listaiptvbrasil.com/logo/tv5monde.png" , TV5 Monde
+http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877/v3plusinfo247hls/v3plusinfo247hls_1_1.m3u8?CANALANDRONALTAS
+#EXTINF:0 group-title="WORLD - EUROPA" tvg-logo="https://sport-tv-guide.live/images/tv-station-tv5-monde-pacific-nz-1533.png" , TV5 Monde Pacifique
+https://tv5pacifiqueen-i.akamaihd.net/hls/live/630175-b/tv5pacifiqueen/tv5pacifique_eng_1200.m3u8
+#EXTINF:0 group-title="WORLD - EUROPA" tvg-logo="https://pbs.twimg.com/profile_images/649226291506475008/bhxaORhF_400x400.png" , TV5 Monde Info SD
+http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877/v3plusinfo247hls/index.m3u8
+#EXTINF:0 group-title="WORLD - EUROPA" tvg-logo="https://pbs.twimg.com/profile_images/649226291506475008/bhxaORhF_400x400.png" , TV5 Monde Info HD
+http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877-b/v3plusinfo247hls/v3plusinfo247hls_1_1.m3u8
+#EXTINF:0 group-title="WORLD - EUROPA" tvg-logo="https://www.actu-france.com/wp-content/uploads/2015/04/TV5-Monde-Style-HD.jpg" , TV5 Style
+https://tv5styleen-i.akamaihd.net/hls/live/631650/tv5styleen/tv5style_eng_1200.m3u8
+#EXTINF:0 group-title="WORLD - EUROPA" tvg-name="BFM News" tvg-logo="https://pbs.twimg.com/profile_images/875697565462908928/44KptPDt_400x400.jpg" , BFM News Paris
+#EXTINF:0 group-title="WORLD - EUROPA" tvg-name="Rouge TV França" tvg-logo="https://pbs.twimg.com/profile_images/861854837289385984/OqhUXEBD_400x400.jpg" , Rouge TV France
+https://event.vedge.infomaniak.com/livecast/event.stream/playlist.m3u8
+#EXTINF:0 group-title="WORLD - EUROPA" tvg-name="France 24 (engl.)" tvg-logo="http://bit.ly/IMG_FRANCE24" , France 24 EN
+http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
+#EXTINF:0 group-title="WORLD - EUROPA" tvg-name="France 24" tvg-logo="http://bit.ly/IMG_FRANCE24" , France 24 FR
+http://static.france24.com:80/live/F24_FR_HI_HLS/live_tv.m3u8
+#EXTINF:0 group-title="WORLD - EUROPA" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/6/67/Alsace_20_logo_2013.png/150px-Alsace_20_logo_2013.png" , ALSACE20 HD França
+http://live.alsace20.fr/live/alsace20/ngrp:alsace20_all/playlist.m3u8
+#EXTINF:0 group-title="WORLD - EUROPA" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/fr-aci-tv-5427.jpg" , ACI TV França
+http://streamcast.oc3n.net:1935/TVPI/myStream700.sdp/chunklist_w312351782.m3u8
+#EXTINF:0 group-title="WORLD - EUROPA" tvg-name="Francophonie.fr 1" tvg-logo="https://themediaboxx.com/wp-content/uploads/2018/11/Francophonie-24.jpg" , Francophonie SD
+https://mv2.tvfrancophonie.org/live/Stream1/media_b776739_w671289549.m3u8
+#EXTINF:0 group-title="WORLD - EUROPA" tvg-name="Francophonie.fr 2" tvg-logo="https://themediaboxx.com/wp-content/uploads/2018/11/Francophonie-24.jpg" , Francophonie HD
+https://5421175365ea3.streamlock.net/live/smil:switch.smil/playlist.m3u8
+#EXTINF:0 group-title="WORLD - EUROPA" tvg-name="Notele TV FR" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/be-notele-9297.jpg" , Notele TV Belgica
+https://streaming01.divercom.be/notele_live/_definst_/direct.stream/chunklist_w1424854023.m3u8
+#EXTINF:0 group-title="WORLD - EUROPA" tvg-name="TF1 Séries Films" tvg-logo="https://pbs.twimg.com/profile_images/1238051393442897920/O3GWUkG1_400x400.jpg" , TF1 Series films
+https://tsf-hls-live-ssl.tf1.fr/tsf/1/hls/live_2328.m3u8
+#EXTINF:0 group-title="WORLD - EUROPA" tvg-name="mycomedy" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/11f243c6aa72f4825692e016bddb4171.png" , My Comedy França
+https://live.creacast.com/mycomedy/smil:mycomedy.smil/master.m3u8
+#EXTINF:0 group-title="WORLD - EUROPA" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/fr-tvpi-1968.jpg" , TVPI SD (FR)
+http://streamcast.oc3n.net:1935/TVPI/myStream700.sdp/chunklist_w595309586.m3u8
+#EXTINF:0 group-title="WORLD - EUROPA" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/fr-tvpi-1968.jpg" , TVPI HD (FR)
+http://streamcast.oc3n.net:1935/TVPI/myStream700.sdp/live.m3u8
+https://bfmparishdslive-lh.akamaihd.net/i/BFMPARIS_KB@429747/index_1236_av-p.m3u8
+#EXTINF:0 group-title="WORLD - EUROPA" tvg-logo="https://seeklogo.com/images/T/TV3-logo-970BB8F8B8-seeklogo.com.gif" , TV3V
+https://pbs.twimg.com/profile_images/1967993454/TV3V_logo1_2008.jpg
+#EXTINF:0 group-title="WORLD - EUROPA" tvg-logo="https://www.allzicradio.com/media/radios/sans-titre-108.jpg" , RMC FRANCE
+https://rmc2hdslive-lh.akamaihd.net/i/DVMR_RMC@167269/index_150_av-p.m3u8?sd=10&rebase=on
+#EXTINF:0 group-title="WORLD - EUROPA" tvg-name="La Tele FR" tvg-logo="https://www.freeetv.com/images/01_logo/latele.jpg" , La Tele FR
+https://live.creacast.com/grandlilletv/smil:grandlilletv.smil/chunklist.m3u8
+#EXTINF:0 group-title="WORLD - EUROPA" tvg-name="tv-galicia" tvg-logo="https://i.pinimg.com/originals/22/d0/c5/22d0c52b1f455b92303b7febba983770.png" , Television de Galicia
+http://europa-crtvg.flumotion.com/playlist.m3u8
+#EXTINF:0 group-title="WORLD - EUROPA" tvg-name="SIC" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/5/51/Logo_SIC_2018.png" , SIC
+http://37.28.211.0:9981/stream/channelid/564961399
+#EXTINF:0 group-title="WORLD - EUROPA" tvg-name="RTP-3" tvg-logo="https://media.rtp.pt/extra/wp-content/uploads/sites/22/2013/09/rtp-logo.jpg" , RTP 3 Portugal
+http://streaming-live-app.rtp.pt/liverepeater/smil:rtpn.smil/playlist.m3u8
+#EXTINF:0 group-title="WORLD - EUROPA" tvg-name="rtp-acores" tvg-logo="https://tribunadasilhas.pt/wp-content/uploads/2019/12/RTP_acores.jpg" , RTP Açores
+http://streaming-live-app.rtp.pt/liverepeater/smil:rtpacores.smil/playlist.m3u8
+#EXTINF:0 group-title="WORLD - EUROPA" tvg-name="rtp-madeira" tvg-logo="https://2.bp.blogspot.com/-vbuNSdrkaWY/VfmIlKmHplI/AAAAAAAAwq0/etHHIe9TK78/s1600/rtpMadeira_400x400.jpg" , RTP Madeira
+http://streaming-live-app.rtp.pt/liverepeater/smil:rtpmadeira.smil/playlist.m3u8
+#EXTINF:0 group-title="WORLD - EUROPA" tvg-name="rtp-1-hd" tvg-logo="https://pbs.twimg.com/profile_images/926103067287793664/CtH4v0nr.jpg" , RTP Internacional
+http://streaming-live-app.rtp.pt/liverepeater/smil:rtpi.smil/playlist.m3u8
+#EXTINF:0 group-title="WORLD - EUROPA" tvg-name="rtp-africa" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2016/04/RTP-%C3%81frica.png" , RTP Africa
+http://streaming-live-app.rtp.pt/liverepeater/smil:rtpafrica.smil/playlist.m3u8
+#EXTINF:0 group-title="WORLD - EUROPA" tvg-logo="https://ptiptv.tk/logo?i=ZIGZAG" , RTP Zig Zag
+https://ptiptv.tk/zigzag.m3u8
+#EXTINF:0 group-title="WORLD - EUROPA" tvg-name="porto-canal" tvg-logo="https://pbs.twimg.com/profile_images/1101553925487034368/GWYreS3X_400x400.png" , Porto Canal Portugal SD1
+http://213.13.26.11:1935/live/portocanal/magellan.m3u8?magellan
+#EXTINF:0 group-title="WORLD - EUROPA" tvg-name="porto-canal" tvg-logo="https://pbs.twimg.com/profile_images/1101553925487034368/GWYreS3X_400x400.png" , Porto Canal Portugal SD2
+http://213.13.26.11:1935/live/portocanal/KodiPortugal.pt.m3u8
+#EXTINF:0 group-title="WORLD - EUROPA" tvg-name="Leiria TV Portugal" tvg-logo="https://i.vimeocdn.com/portrait/20878121_300x300" , Leiria TV Portugal
+http://tv02.logicahost.com.br:1935/tvnovus/tvnovus/live.m3u8
+#EXTINF:0 group-title="WORLD - EUROPA" tvg-name="DW (Europe)" tvg-logo="https://goo.gl/nxxEMk" , DW - Deutsche Welle
+http://dwstream3-lh.akamaihd.net:80/i/dwstream3_live@124409/index_1_av-p.m3u8
+#EXTINF:0 group-title="WORLD - EUROPA" tvg-name="DEUTSCHE WELLE LATINO" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/de-dw-espano.jpg" , Deutsche Welle Latino
+http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/master.m3u8
+#EXTINF:0 group-title="WORLD - EUROPA" tvg-name="DEUTSCHE WELLE NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/240px-Deutsche_Welle_symbol_2012.svg.png" , Deutsche Welle News
+http://dwstream4-lh.akamaihd.net:80/i/dwstream4_live@131329/index_1_av-b.m3u8?AndreOid
+#EXTINF:0 group-title="WORLD - EUROPA" tvg-name="TV38 Alemanha" tvg-logo="https://www.tv38.de/wp-content/uploads/2019/10/HeaderNeu.png" , TV38 Alemanha
+http://62.113.221.3/tv38-live/_definst_/mp4:livestream/playlist.m3u8
+#EXTINF:0 group-title="WORLD - EUROPA" tvg-logo="https://pbs.twimg.com/profile_images/1318682252/BadenTVLogo_weiss_twitter_400x400.jpg" , Baden TV 1 HD Alemanha
+http://badentv-stream2.siebnich.info/rtplive/btv.stream/live.m3u8
+#EXTINF:0 group-title="WORLD - EUROPA" tvg-logo="https://pbs.twimg.com/profile_images/1318682252/BadenTVLogo_weiss_twitter_400x400.jpg" , Baden TV 2 HD Alemanha
+http://badentv-stream2.siebnich.info/rtplive/btv.stream/chunklist_w550637166.m3u8
+#EXTINF:0 group-title="WORLD - EUROPA" tvg-logo="https://cdn-radiotime-logos.tunein.com/s100563q.png" , Elbekanal HD Alemanha
+http://62.113.210.250/medienasa-live/_definst_/mp4:elbe_high/chunklist_w1146564478.m3u8
+#EXTINF:0 group-title="WORLD - EUROPA" tvg-logo="http://www.tvo.de/storage/thumbs/r:1370081336/35300.jpg" , TV Oberfranken HD Alemanha
+http://tvoberfranken.iptv-playoutcenter.de:1935/tvoberfranken/tvoberfranken.stream_1/playlist.m3u8
+#EXTINF:0 group-title="WORLD - EUROPA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/TeleB%C3%A4rn_Logo.svg/1200px-TeleB%C3%A4rn_Logo.svg.png" , TELE BARN HD Alemanha
+http://klive-a.akamaihd.net/dc-1/live/hls/p/1719221/e/1_0mc3z57p/t/gaudIWTPWrpJe6yJmHI9vA/index-s32.m3u8?ANTONYGTV
+#EXTINF:0 group-title="WORLD - EUROPA" tvg-name="BX1 FR" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/be-bx1-tv.jpg" , BX1 Belgica
+https://59959724487e3.streamlock.net/stream/live/master.m3u8
+#EXTINF:-1 group-title="WORLD - EUROPA" tvg-name="RAI 1" tvg-logo="https://staticr1.blastingcdn.com/media/photogallery/2018/6/7/660x290/b_502x220/anticipazioni-tv-del-prossimo-autunno-2018-di-rai-1_2026557.jpg",RAI 1 SD Italia
+http://yourdnshere.xyz:83/live/Kericage/6824106935/375008.m3u8
+#EXTINF:-1 group-title="WORLD - EUROPA" tvg-name="RAI 3" tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/rai-3-png-6.png",RAI 3 SD Italia
+http://yourdnshere.xyz:83/live/Kericage/6824106935/375012.m3u8
+#EXTINF:0 group-title="WORLD - EUROPA" tvg-name="RAI 4" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/RAI4.png" , RAI 4 HD Italia
+http://b2everyrai-lh.akamaihd.net/i/rai4_1@181951/index_1800_av-p.m3u8
+#EXTINF:0 group-title="WORLD - EUROPA" tvg-name="RAI 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Rai_5_HD_-_Logo_2017.svg/1280px-Rai_5_HD_-_Logo_2017.svg.png" , RAI 5 HD Italia
+https://b2everyrai-lh.akamaihd.net/i/rai5_1@182695/index_1800_av-p.m3u8?sd=10&rebase=on
+#EXTINF:0 group-title="WORLD - EUROPA" tvg-name="Rai Movie" tvg-logo="http://listaiptvbrasil.com/canais/wp-content/uploads/2018/03/rai.png" , RAI Movie Italia
+http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/master.m3u8
+#EXTINF:0 group-title="WORLD - EUROPA" tvg-name="Rai Movie" tvg-logo="http://listaiptvbrasil.com/canais/wp-content/uploads/2018/03/rai.png" , RAI Movie HD Italia
+http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/master.m3u8
+#EXTINF:0 group-title="WORLD - EUROPA" tvg-name="Rai Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Rai_Premium_-_Logo_2017.svg/640px-Rai_Premium_-_Logo_2017.svg.png" , Rai Premium Italia
+http://b2everyrai-lh.akamaihd.net/i/raipremium_1@181837/master.m3u8
+#EXTINF:0 group-title="WORLD - EUROPA" tvg-name="RAI Premium" tvg-logo="https://www.freqsat.com/wp-content/uploads/2018/08/Rai-Premium-HD-TV.jpg" , RAI Premium HD Italia
+http://b2everyrai-lh.akamaihd.net/i/raipremium_1@181837/master.m3u8
+#EXTINF:0 group-title="WORLD - EUROPA" tvg-name="Rai News 24" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Rai_News_-_Logo_2010.svg/640px-Rai_News_-_Logo_2010.svg.png" , RAI NEWS24 Italia
+https://rainews1-live.akamaized.net/hls/live/598326/rainews1/rainews1/rainews_1800/chunklist.m3u8
+#EXTINF:0 group-title="WORLD - EUROPA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/14/LA7_logo.png" , Canale 7 HD Italia
+http://wms.shared.streamshow.it:1935/canale7/canale7/live.m3u8
+#EXTINF:0 group-title="WORLD - EUROPA" tvg-name="History Channel" tvg-logo="https://listaiptvbrasil.com/logo/historylab.png" , History Lab SD Italia
+http://wma10.fluidstream.net/HistoryLab/livestream/playlist.m3u8?CANALANDRONALTAS
+#EXTINF:0 group-title="WORLD - EUROPA" tvg-name="History Channel" tvg-logo="https://listaiptvbrasil.com/logo/historylab.png" , History Lab HD Italia
+http://wma10.fluidstream.net:1935/HistoryLab/livestream/chunklist_w657994700.m3u8?CANALANDRONALTAS
+#EXTINF:0 group-title="WORLD - EUROPA" tvg-name="TG 7 HD Italia" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/14/LA7_logo.png" , TG 7 HD Italia
+http://wms.shared.streamshow.it:1935/canale7/canale7/live.m3u8
+#EXTINF:-1 group-title="WORLD - EUROPA" tvg-logo="https://img1.gratispng.com/20180326/fvw/kisspng-canale-5-logo-television-italia-1-5-5ab8e03aeca2c9.1505554415220654669693.jpg",CANALE 5 SD
+http://yourdnshere.xyz:83/live/Kericage/6824106935/375016.m3u8
+#EXTINF:-1 group-title="WORLD - EUROPA" tvg-name="Italia 1" tvg-logo="https://i.ibb.co/VYS6N7m/Italia-1.jpg",ITALIA 1 SD
+http://yourdnshere.xyz:83/live/Kericage/6824106935/375018.m3u8
+#EXTINF:-1 group-title="WORLD - EUROPA" tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/c/c0/Rete_4_-_Logo_2018.svg/244px-Rete_4_-_Logo_2018.svg.png",RETE 4 SD
+http://yourdnshere.xyz:83/live/Kericage/6824106935/375014.m3u8
+#EXTINF:0 group-title="WORLD - EUROPA" tvg-logo="https://www.omroepwest.nl/Content/Images/west/logo.png" , Omroep West Holanda
+https://d2dslh4sd7yvc1.cloudfront.net/live/omroepwest/ngrp:tv-feed_all/chunklist_b4227072.m3u8
+#EXTINF:0 group-title="WORLD - EUROPA" tvg-logo="https://i.pinimg.com/736x/2e/f0/33/2ef033369f33d3bd70488b802df2bab8--tv-channels-live.jpg" , Kontra Channel Grecia
+http://flashcloud.mediacdn.com/live/kontratv/chunklist_w1477516246.m3u8
+#EXTINF:-1 group-title="WORLD - EUROPA" tvg-logo="https://eskills4all.eu/sites/eskills4all.eu/files/partners/logo/ant1web.png",ANT1 Grecia
+https://antennalivesp-lh.akamaihd.net/i/live_1@715138/index_1500_av-p.m3u8
+#EXTINF:-1 group-title="WORLD - EUROPA" tvg-logo="https://eskills4all.eu/sites/eskills4all.eu/files/partners/logo/ant1web.png",ANT1 Grecia
+https://antennalivesp-lh.akamaihd.net/i/live_1@715138/master.m3u8
+#EXTINF:-1 group-title="WORLD - EUROPA" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/gr-corfu-tv-7259.jpg",Corfu TV Grecia
+https://itv.streams.ovh/corfuchannel/corfuchannel/playlist.m3u8
+#EXTINF:-1 group-title="WORLD - EUROPA" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/gr-ena-channe-1968.jpg",Ena Channel Grecia
+http://176.9.123.140:1935/1c/stream/master.m3u8
+#EXTINF:-1 group-title="WORLD - EUROPA" tvg-logo="https://i.ibb.co/sVfZD64/epirus.jpg",Epirus TV1 Grecia
+http://176.9.123.140:1935/radioepirus/radioepirus/playlist.m3u8
+#EXTINF:-1 group-title="WORLD - EUROPA" tvg-logo="https://i.ibb.co/hgYHFmH/ert.jpg",ERT World Grecia
+http://wpso.com:1936/hls/wzra.m3u8
+#EXTINF:-1 group-title="WORLD - EUROPA" tvg-logo="https://newmedia.thebest.gr/i/w400/qdpxkepnxq5be92bfd90985.jpg",Ionian TV Grecia
+https://stream.ioniantv.gr/ionian/live_abr/playlist.m3u8
+#EXTINF:-1 group-title="WORLD - EUROPA" tvg-logo="https://www.voloslive.gr/wp-content/uploads/2017/08/13.jpg",Kontra Channel Grecia
+http://flashcloud.mediacdn.com/live/kontratv/playlist.m3u8
+#EXTINF:-1 group-title="WORLD - EUROPA" tvg-logo="https://evibe.me/images/radimg250237/messiniawebtv.jpg",Messinia Web TV Grecia
+http://176.9.123.140:1935/messinia/messinia/master.m3u8
+#EXTINF:-1 group-title="WORLD - EUROPA" tvg-logo="https://eurovisionireland.files.wordpress.com/2013/10/sigma-tv.jpg",Sigma TV Grecia
+http://81.21.47.74/hls/live.m3u8
+#EXTINF:-1 group-title="WORLD - EUROPA" tvg-logo="https://i.ibb.co/FHGNrg5/tvcrete.jpg",TV Creta
+https://live.streams.ovh/tvcreta/tvcreta/chunklist.m3u8
+#EXTINF:0 group-title="WORLD - EUROPA" tvg-name="Canal 24 Horas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Logo_TVE-HD.svg/1200px-Logo_TVE-HD.svg.png" , TVE 24h HD Espanha
+http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl8/24h_onlydash_lv3_aosv4_gl8/24h_onlydash_lv3_aosv4_gl8.isml/24h_onlydash_lv3_aosv4_gl8-audio=128000-video=1500000.m3u8
+#EXTINF:0 group-title="WORLD - EUROPA" tvg-name="RTVE" tvg-logo="https://www.esbaluard.org/wp-content/uploads/2016/08/logo-vector-rtve.jpg" , RTVE Espanha
+https://hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@583042/master.m3u8
+#EXTINF:0 group-title="WORLD - EUROPA" tvg-logo="https://d2po7v53a8yrck.cloudfront.net/austatic/media/9317d31c-53ae-4043-a9bd-3dfb87d4d97e.png" , 7 HD Espanha
+http://rtvmurcia_01-lh.akamaihd.net/i/rtvmurcia_1_0@507973/index_0_av-p.m3u8?sd=10&rebase=on
+#EXTINF:0 group-title="WORLD - EUROPA" tvg-name="Real Madrid TV" tvg-logo="https://icon2.cleanpng.com/20180717/kjc/kisspng-real-madrid-c-f-uefa-champions-league-manchester-redbull-logo-black-and-white-5b4d7ca051b062.2579993415318048323346.jpg" , Real Madrid TV
+https://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/index_3_av-p.m3u8
+#EXTINF:0 group-title="WORLD - EUROPA" tvg-name="B1 TV Romenia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/B1_logo_2015.png/320px-B1_logo_2015.png" , B1 TV Romenia
+http://ok2.se:8000/8227F1UTdPDYazIVZ/78d6F1USFGLp8jDLL/10239
+#EXTINF:0 group-title="WORLD - EUROPA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/5_Kanal.png/220px-5_Kanal.png" , TV5 Ukraine
+http://rtsp.cdn.ua/tv5.zp.ua_live/_definst_/mp4:tv5/chunklist_w1455650330.m3u8
+#EXTINF:0 group-title="WORLD - LATINO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2a/Canal_26_Argentina.png" , Canal26 HD1 ARGENTINA
+http://live-edge01.telecentro.net.ar/live/26hd-720/playlist.m3u8
+#EXTINF:0 group-title="WORLD - LATINO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2a/Canal_26_Argentina.png" , Canal26 HD2 ARGENTINA
+http://200.115.193.177/live/26hd-720/.m3u8
+#EXTINF:0 group-title="WORLD - LATINO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Telemax.png/1280px-Telemax.png" , TELEMAX Canal 6 ARGENTINA
+http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w1527043435_b1828000_sleng.m3u8?iptvgratis?
+#EXTINF:0 group-title="WORLD - LATINO" tvg-name="TLX HD ARGENTINA" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/ar-tlx-telemax.jpg" , TLX HD ARGENTINA
+http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w950122583_b1828000_sleng.m3u8
+#EXTINF:0 group-title="WORLD - LATINO" tvg-name="Litus HD" tvg-logo="https://3.bp.blogspot.com/-bu15k8ntok4/XCKSVan7vKI/AAAAAAAAB10/E7-rXfH9yXQLBQYI0kVQa6BLKw0j52odACLcBGAs/w1200-h630-p-k-no-nu/litus-tv.jpg" , Litus HD Argentina
+http://192.99.38.174:1935/litustv/ngrp:litustv_all/playlist.m3u8
+#EXTINF:0 group-title="WORLD - LATINO" tvg-logo="http://icons.iconarchive.com/icons/hopstarter/square-flags/1024/Chile-Flag-icon.png" , El Pinguino Tv Chile
+http://streaming.elpinguino.com:1935/live/pinguinotv_720p/chunklist_w1602984822.m3u8
+#EXTINF:0 group-title="WORLD - LATINO" tvg-logo="https://hondu.tv/wp-content/uploads/2016/10/Canal-10.jpg" , TEN Canal 10 Honduras
+http://stream.grupoabchn.com:1935/TENHD/TENLive.smil/chunklist_w1445105875_b1848000.m3u8
+#EXTINF:0 group-title="WORLD - LATINO" tvg-name="Tele Islas SD San Andres" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2016/05/Teleislas.png" , Tele Islas SD San Andres
+http://vbox2.cehis.net/live-teleislas/smil:teleislas.smil/playlist.m3u8
+#EXTINF:0 group-title="WORLD - LATINO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Logo_de_RPC_2016.png/220px-Logo_de_RPC_2016.png" , RPC Red Paraguaya de Comunicacion
+http://174.138.118.252/live/canal13stream_mid.m3u8
+#EXTINF:0 group-title="WORLD - LATINO" tvg-name="teleSUR" tvg-logo="https://coinrevolution.com/wp-content/uploads/2018/07/Telesur-Logo.png" , teleSUR Venezuela EN
+https://d7g1ebft2592.cloudfront.net/mblivev3/480p/playlist.m3u8
+#EXTINF:0 group-title="WORLD - LATINO" tvg-name="Antares TV SD PERU" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/antarestv.png" , Antares TV SD PERU
+http://173.192.105.252:1935/iptvantares/liveantarestv/playlist.m3u8
+#EXTINF:0 group-title="WORLD - LATINO" tvg-name="TV PERU" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Tv_Per%C3%BA_-_Logo_2019_Reducido_%28TVPE%29.svg/1024px-Tv_Per%C3%BA_-_Logo_2019_Reducido_%28TVPE%29.svg.png" , TV PERU
+http://cdnh4.iblups.com/hls/irtp.m3u8
+#EXTINF:0 group-title="WORLD - LATINO" tvg-name="Ticavision TV Costa Rica" tvg-logo="https://pbs.twimg.com/media/CudLt3UUIAA3HVq.jpg" , Ticavision TV Costa Rica
+http://k3.usastreams.com:1935/HBTV/HBTV/playlist.m3u8
+#EXTINF:0 group-title="WORLD - LATINO" tvg-name="Canal 10 Cancun" tvg-logo="https://www.freeetv.com/images/02_logo/tu_canal_10_mexico.jpg" , Canal 10 Cancun
+http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8?Arlen
+#EXTINF:0 group-title="WORLD - LATINO" tvg-name="CANAL ONCE (Mexico)" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/mx-once-tv-mexico-internaciona.jpg" , CANAL ONCE Mexico
+http://live.canaloncelive.tv:1935/livepkgr2/smil:internacional.smil/chunklist_w776573390_b1300000_slesp.m3u8
+#EXTINF:0 group-title="WORLD - LATINO" tvg-logo="https://www.pngkey.com/png/detail/266-2661220_live-milenio-tv-from-mexico-en-vivo-logo.png" , Milenio TV HD Mexico
+http://bcoveliveios-i.akamaihd.net/hls/live/201661/57828478001/milenio_center_512k@51752.m3u8
+#EXTINF:0 group-title="WORLD - LATINO" tvg-logo="https://www.tvcuatro.com/logo%201024.png" , TV Cuatro 4.1 Guanajuato Mexico
+https://5ca3e84a76d30.streamlock.net/tv4/smil:tv4.smil/chunklist_w185308522_b13128000_sleng.m3u8
+#EXTINF:0 group-title="WORLD - LATINO" tvg-logo="http://www.tvcuatro.com/images/cultura-01.png" , TV Cuatro 4.2 Guanajuato Mexico
+https://5ca3e84a76d30.streamlock.net/tv42/smil:tv42.smil/chunklist_w1195027786_b13128000_sleng.m3u8
+#EXTINF:0 group-title="WORLD - LATINO" tvg-logo="http://www.tvcuatro.com/images/deportes-02.png" , TV Cuatro 4.3 Guanajuato Mexico
+https://5ca3e84a76d30.streamlock.net/tv43/smil:tv43.smil/chunklist_w761820852_b13128000_sleng.m3u8
+#EXTINF:0 group-title="WORLD - LATINO" tvg-name="Telemar Mexico" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/0a43bdc9ca894ddb36cc1bb7f4388b40.jpg" , TelemarMexico
+http://wms.tecnoxia.com:1935/8006/8006/playlist.m3u8
+#EXTINF:0 group-title="WORLD - LATINO" tvg-logo="https://i.vimeocdn.com/portrait/8846221_300x300.jpg" , Canal 10 Cancun Mexico
+http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
+#EXTINF:0 group-title="WORLD - LATINO" tvg-logo="https://pt.seaicons.com/wp-content/uploads/2015/10/Mexico-Flag-icon.png" , TV 10 HD Mexico
+http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
+#EXTINF:0 group-title="WORLD - LATINO" tvg-logo="https://img.pngio.com/png-mexico-flag-icon-free-download-mexico-flag-png-250_250.png" , TV 11 HD Mexico
+http://live.canaloncelive.tv:1935/livepkgr2/smil:internacional.smil/playlist.m3u8
+#EXTINF:0 group-title="WORLD - LATINO" tvg-name="Televisa Monterrey" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/07/Televisa-Monterrey-en-vivo-Online.png" , Televisa Monterrey Mexico
+http://tvla.xyz:25461/imnvwqgm/h0g40F9ssB/35163
+#EXTINF:0 group-title="WORLD - LATINO" tvg-name="Televisa Puebla" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/mx-tv-3-puebla-1367.jpg" , Televisa Puebla FullHD Mexico
+http://tvla.xyz:25461/imnvwqgm/h0g40F9ssB/35164
+#EXTINF:0 group-title="WORLD - LATINO" tvg-name="TLR" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/mx-telemax-3629.jpg" , TeleMax Mexico
+https://5e307acc9a171.streamlock.net:1936/telemax/telemax/playlist.m3u8
+#EXTINF:0 group-title="WORLD - LATINO" tvg-name="Hola! TV" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/61-Crv5Ij7L._SX425_.png" , Telemundo Internacional (Latin US)
+http://tvla.xyz:25461/imnvwqgm/h0g40F9ssB/35088
+#EXTINF:0 group-title="WORLD - LATINO" tvg-name="Unimas Houston" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_UniM%C3%A1s.svg/1200px-Logo_UniM%C3%A1s.svg.png" , Unimas Houston HD (Latin US)
+http://tvla.xyz:25461/imnvwqgm/h0g40F9ssB/35117
+#EXTINF:0 group-title="WORLD - LATINO" tvg-name="Galavisión" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Galavision_Logo_2013.svg/1200px-Galavision_Logo_2013.svg.png" , Galavisión Houston (Latin US)
+http://tvla.xyz:25461/imnvwqgm/h0g40F9ssB/35132
+#EXTINF:0 group-title="WORLD - LATINO" tvg-name="Galavisión" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Galavision_Logo_2013.svg/1200px-Galavision_Logo_2013.svg.png" , Galavisión Miami HD (Latin US)
+http://tvla.xyz:25461/imnvwqgm/h0g40F9ssB/35134
+#EXTINF:0 group-title="WORLD - LATINO" tvg-name="Hola! TV" tvg-logo="https://cdn.mitvstatic.com/channels/co_hola-tv-hd_m.png" , Hola! TV FullHD (Dual Audio)
+http://tvla.xyz:25461/imnvwqgm/h0g40F9ssB/35199
+#EXTINF:0 group-title="WORLD - LATINO" tvg-name="Glitz" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Glitzlogo.png" , Glitz
+http://tvla.xyz:25461/imnvwqgm/h0g40F9ssB/35200
+#EXTINF:0 group-title="WORLD - LATINO" tvg-name="Cine Latino" , Cine Latino
+http://tvla.xyz:25461/imnvwqgm/h0g40F9ssB/35231
+#EXTINF:0 group-title="WORLD - LATINO" tvg-name="Cinecanal" tvg-logo="https://cdn.mitvstatic.com/channels/ar_cinecanal-1_m.png" , Cinecanal (CL)
+http://tvla.xyz:25461/imnvwqgm/h0g40F9ssB/35234
+#EXTINF:0 group-title="WORLD - LATINO" tvg-name="Golden Edge" tvg-logo="https://icon2.cleanpng.com/20180920/ela/kisspng-logo-united-states-of-america-brand-product-design-tv-channel-latinoamerica-bing-images-5ba3a595c34534.3118367415374514137998.jpg" , Golden Edge (Dual Audio)
+http://tvla.xyz:25461/imnvwqgm/h0g40F9ssB/35256
+#EXTINF:0 group-title="WORLD - LATINO" tvg-name="France 24 Mexico" tvg-logo="https://static.france24.com/meta_og_twcards/jsonld_publisher.png" , France 24 Mexico
+http://tvla.xyz:25461/imnvwqgm/h0g40F9ssB/35166
+#EXTINF:0 group-title="WORLD - LATINO" tvg-name="TVE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Logo_TVE-Internacional.svg/200px-Logo_TVE-Internacional.svg.png" , TVE Mexico
+http://tvla.xyz:25461/imnvwqgm/h0g40F9ssB/35167
+#EXTINF:0 group-title="WORLD - LATINO" tvg-name="Star TVE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/Star-TVE-logo.png" , Star TVE Mexico
+http://tvla.xyz:25461/imnvwqgm/h0g40F9ssB/35168
+#EXTINF:0 group-title="WORLD - LATINO" tvg-name="Star TVE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/Star-TVE-logo.png" , Star TVE FHD Mexico
+http://tvla.xyz:25461/imnvwqgm/h0g40F9ssB/35169
+#EXTINF:0 group-title="WORLD - LATINO" tvg-name="Wobi" tvg-logo="https://www.roastbrief.com.mx/wp-content/uploads/2015/03/WOBI_portada.jpg" , Wobi Mexico
+http://tvla.xyz:25461/imnvwqgm/h0g40F9ssB/34804
+#EXTINF:0 group-title="WORLD - LATINO" tvg-name="Europa Europa" tvg-logo="https://cdn.mitvstatic.com/channels/mx_europa-europa_m.png" , Europa Europa Mexico
+http://tvla.xyz:25461/imnvwqgm/h0g40F9ssB/35001
+#EXTINF:0 group-title="WORLD - LATINO" tvg-name="Film & Art" tvg-logo="https://radioclickdigital.com.ar/v2/wp-content/uploads/2017/08/Film-Arts.jpg" , Film & Art Mexico
+http://tvla.xyz:25461/imnvwqgm/h0g40F9ssB/35002
+#EXTINF:0 group-title="WORLD - LATINO" tvg-name="Multipremier" tvg-logo="https://cdn.mitvstatic.com/channels/a4fcb1bf-cfa6-47b0-941a-7e09f802139e_m.jpg" , Multipremier Colombia
+http://tvla.xyz:25461/imnvwqgm/h0g40F9ssB/35003
+#EXTINF:0 group-title="WORLD - LATINO" tvg-name="Pasiones" tvg-logo="https://pbs.twimg.com/media/CVOzHZ9XAAAw11N.jpg" , Pasiones Colombia
+http://tvla.xyz:25461/imnvwqgm/h0g40F9ssB/35058
+#EXTINF:0 group-title="WORLD - LATINO" tvg-name="Teleamiga" tvg-logo="http://www.teleamiga.tv/sites/default/files/logo2.png" , Teleamiga Colombia
+http://tvla.xyz:25461/imnvwqgm/h0g40F9ssB/43534
+#EXTINF:0 group-title="WORLD - LATINO" tvg-name="24 Horas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/24_Horas_TVN_corto.png" , 24 Horas Chile
+http://tvla.xyz:25461/imnvwqgm/h0g40F9ssB/35170
+#EXTINF:0 group-title="WORLD - LATINO" tvg-name="CNN Chile" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/c/c2/CNN_Chile_2008.png/revision/latest/scale-to-width-down/340?cb=20180330001836&path-prefix=es" , CNN Chile
+http://tvla.xyz:25461/imnvwqgm/h0g40F9ssB/35179
+#EXTINF:0 group-title="WORLD - LATINO" tvg-name="Mega Chile" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/Mega2020.png" , Mega Chile HD
+http://tvla.xyz:25461/imnvwqgm/h0g40F9ssB/35298
+#EXTINF:0 group-title="WORLD - LATINO" tvg-name="TV+ Chile" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9b/TV%2B_%282018%29.png" , TV+ Chile
+http://tvla.xyz:25461/imnvwqgm/h0g40F9ssB/35306
+#EXTINF:0 group-title="WORLD - LATINO" tvg-name="TV+ Chile" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9b/TV%2B_%282018%29.png" , TV+ Chile HD
+http://tvla.xyz:25461/imnvwqgm/h0g40F9ssB/35307
+#EXTINF:0 group-title="WORLD - LATINO" tvg-name="TV Publica Argentina" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Logo_Televisi%C3%B3n_P%C3%BAblica_Argentina.png/481px-Logo_Televisi%C3%B3n_P%C3%BAblica_Argentina.png" , TV Publica Argentina
+http://tvla.xyz:25461/imnvwqgm/h0g40F9ssB/43307
+#EXTINF:0 group-title="WORLD - LATINO" tvg-name="Canal 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Canalcuatrovivoparavos.png/266px-Canalcuatrovivoparavos.png" , Canal 4 Uruguai
+http://tvla.xyz:25461/imnvwqgm/h0g40F9ssB/43391
+#EXTINF:0 group-title="WORLD - LATINO" tvg-name="Canal 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Canalcuatrovivoparavos.png/266px-Canalcuatrovivoparavos.png" , Canal 4 HD Uruguai
+http://tvla.xyz:25461/imnvwqgm/h0g40F9ssB/43392
+#EXTINF:0 group-title="WORLD - LATINO" tvg-name="A+V" , A+V Uruguai
+http://tvla.xyz:25461/imnvwqgm/h0g40F9ssB/43393
+#EXTINF:0 group-title="WORLD - LATINO" tvg-name="Television Nacional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/36/1024x1024.png" , Television Nacional Uruguai
+http://tvla.xyz:25461/imnvwqgm/h0g40F9ssB/43409
+#EXTINF:0 group-title="WORLD - LATINO" tvg-name="Canal 7 Punta" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/23/Canal7TWnlhy.png" , Canal 7 Punta Uruguai
+http://tvla.xyz:25461/imnvwqgm/h0g40F9ssB/43413
+#EXTINF:0 group-title="WORLD - LATINO" tvg-name="Televicentro" tvg-logo="https://i.servimg.com/u/f55/20/02/61/13/logo_t10.png" , Televicentro Equador
+http://tvla.xyz:25461/imnvwqgm/h0g40F9ssB/43439
+#EXTINF:0 group-title="WORLD - ORIENTE" tvg-logo="http://www.hanyramsay.com/wp-content/uploads/2013/10/alhurra-1.jpg" , Al Hurra HD Emirados Árabes
+http://mbnhls-lh.akamaihd.net/i/MBN_1@118619/master.m3u8
+#EXTINF:0 group-title="WORLD - ORIENTE" tvg-logo="https://banner2.kisspng.com/20180720/hyc/kisspng-dubai-one-television-channel-dubai-racing-club-noor-dubai-939-5b52851c93cb37.4966386815321346846054.jpg" , DUBAI ONE HD
+http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/chunklist_b1800000.m3u8
+#EXTINF:0 group-title="WORLD - ORIENTE" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/31AIdoYz1sL.png" , ALJAZEERA ENG HD Qatar
+https://english.streaming.aljazeera.net/aljazeera/english2/index2073.m3u8
+#EXTINF:0 group-title="WORLD - ORIENTE" tvg-logo="https://www.livenewsnow.com/wp-content/uploads/2015/11/Knesset-Channel-1.png" , Knesset Channel HD Israel
+http://w3.013.gostreaming.tv:1935/Knesset/myStream/playlist.m3u8
+#EXTINF:0 group-title="WORLD - ORIENTE" tvg-logo="https://cdn.countryflags.com/thumbs/libya/flag-button-square-250.png" , LJBC TV Libya
+http://starmena.ercdn.net/libya-alhadath/libya-alhadath_480p.m3u8
+#EXTINF:0 group-title="WORLD - ORIENTE" tvg-name="aljazeera" tvg-logo="https://images-eu.ssl-images-amazon.com/images/I/310YEHDYguL.png" , Aljazeera
+https://live-hls-web-aje.getaj.net/AJE/index.m3u8
+#EXTINF:0 group-title="WORLD - ORIENTE" tvg-logo="https://i.ibb.co/w6k6rPG/venus-logo-new.jpg" , VENUS TV Pakistan
+http://45.77.90.56:8080/hls/mystream.m3u8
+#EXTINF:0 group-title="WORLD - ORIENTE" tvg-logo="https://cdn-radiotime-logos.tunein.com/s247702d.png" , Al Hurria Iraq
+http://ns8.indexforce.com:1935/alsharqiyalive/mystream/chunklist_w836773702.m3u8
+#EXTINF:0 group-title="WORLD - ORIENTE" tvg-logo="https://logodownload.org/wp-content/uploads/2014/11/CNN-logo-4.png" , CNN HD Indonesia
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w366707841_b384000_sleng.m3u8
+#EXTINF:0 group-title="WORLD - ORIENTE" tvg-logo="http://icons.iconarchive.com/icons/flat-icons.com/flat/512/Flat-TV-icon.png" , TVKU Indonesia
+http://103.30.1.14:8080/hls/live.m3u8
+#EXTINF:0 group-title="WORLD - ORIENTE" tvg-name="ALAQSA TV Hamas" tvg-logo="https://static.timesofisrael.com/www/uploads/2015/11/tvlogo-e1448896628391-1024x640.jpg" , ALAQSA TV Hamas
+http://ok2.se:8000/8227F1UTdPDYazIVZ/78d6F1USFGLp8jDLL/72668
+#EXTINF:0 group-title="WORLD - ORIENTE" tvg-name="ANT1 CY" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/66/ANT1_%28logo%29.png" , ANT1 CY Chipre
+http://ok2.se:8000/8227F1UTdPDYazIVZ/78d6F1USFGLp8jDLL/77780
+#EXTINF:0 group-title="WORLD - USA" tvg-name="CBS News SD" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51UjITm0Z-L._SY355_.png" , CBS NEWS SD
+http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8?CANALANDRONALTAS
+#EXTINF:0 group-title="WORLD - USA" tvg-name="CBS NEWS" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51UjITm0Z-L._SY355_.png" , CBS NEWS HD
+https://dai.google.com/linear/hls/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8
+#EXTINF:0 group-title="WORLD - USA" tvg-name="CBS NEWS HD USA" tvg-logo="https://blog.ourcrowd.com/wp-content/uploads/2015/05/CBS-News-logo.jpg" , CBS NEWS HD USA
+https://cbsnhls-i.akamaihd.net/hls/live/264710/cbsn_hlsprod_2/master_1800.m3u8
+#EXTINF:0 group-title="WORLD - USA" tvg-name="Bloomberg Europe" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/us-bloomberg-tv-europe.jpg" , Bloomberg Europe
+http://cdn-videos.akamaized.net/btv/desktop/akamai/europe/live/primary.m3u8?CANALANDRONALTAS
+#EXTINF:0 group-title="WORLD - USA" tvg-name="Bloomberg TV (US1)" tvg-logo="https://allvectorlogo.com/img/2016/07/bloomberg-television-logo.png" , Bloomberg TV (US1)
+https://liveproduseast.akamaized.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-700-1_live.m3u8
+#EXTINF:0 group-title="WORLD - USA" tvg-name="Bloomberg TV (US2)" tvg-logo="https://allvectorlogo.com/img/2016/07/bloomberg-television-logo.png" , Bloomberg TV (US2)
+https://liveproduseast.akamaized.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-1000-1_live.m3u8
+#EXTINF:0 group-title="WORLD - USA" tvg-name="Bloomberg TV HD NY USA" tvg-logo="https://www.adweek.com/tvnewser/wp-content/uploads/sites/3/2017/01/bloomberg-television.jpg" , Bloomberg TV HD NY USA
+https://liveproduseast.akamaized.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-700-1_live.m3u8
+#EXTINF:0 group-title="WORLD - USA" tvg-name="Bloomberg TV Australia" tvg-logo="https://pbs.twimg.com/profile_images/768354336103600128/AktQ5A17.jpg" , Bloomberg TV Australia
+https://liveprodapnortheast.global.ssl.fastly.net/btv/desktop/aus_live.m3u8
+#EXTINF:0 group-title="WORLD - USA" tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/red-bull-icon-png-2.png" , Red Bull 1 HD USA
+http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
+#EXTINF:0 group-title="WORLD - USA" tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/red-bull-icon-png-2.png" , Red Bull 2 HD USA
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+#EXTINF:0 group-title="WORLD - USA" tvg-logo="https://www.tvw.org/wp-content/uploads/2014/01/TVWLogo1.jpg" , TVW HD Washington USA
+https://d3ktuc8v2sjk6m.cloudfront.net/livetv/ngrp:TVWAIR_all/chunklist_w795404484_b2179072.m3u8
+#EXTINF:0 group-title="WORLD - USA" tvg-name="NOTV 41 NEW ORLEANS" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/510o-769sbL._SY355_.png" , NOTV 41 NEW ORLEANS
+http://media4.tripsmarter.com:1935/LiveTV/NOTVHD/playlist.m3u8
+#EXTINF:0 group-title="WORLD - USA" tvg-name="WFTV" tvg-logo="https://www.wftv.com/pb/resources/images/share_logos/WFTV_1200x630.png" , WFTV 9 News Orlando
+https://svc-lv-cxtv-wftv.cmgvideo.com/out/u/WFTVN1.m3u8
+#EXTINF:0 group-title="WORLD - USA" tvg-logo="https://i.ya-webdesign.com/images/usa-flag-icon-png-2.png" , Davos HD USA
+https://liveproduseast.akamaized.net/btv/desktop/us_live.m3u8
+#EXTINF:0 group-title="WORLD - USA" tvg-name="Channel 7" tvg-logo="https://www.livenewsmag.com/wp-content/uploads/2017/02/WSVN-7-USA-Channel-7-Live.jpg" , Channel 7 USA
+http://radio.7chan.org:8000/CH7
+#EXTINF:0 group-title="WORLD - USA" tvg-logo="https://www.millersamuel.com/files/2019/07/cheddarlogo.jpeg" , Cheddar
+https://content.uplynk.com/channel/4ee18bd581dc4d3b90303e0cb9beeb0f.m3u8
+#EXTINF:0 group-title="WORLD - USA" tvg-logo="https://cdn-profiles.tunein.com/s296280/images/logog.png?t=155360" , Cheddar Big News
+https://live.chdrstatic.com/cbn/primary/1.m3u8
+#EXTINF:0 group-title="WORLD - USA" tvg-name="WGN TV 9 Chicago" tvg-logo="https://pbs.twimg.com/profile_images/864880514120925184/d2JEmQPg.jpg" , WGN 9 Chicago
+https://wgntribune-lh.akamaihd.net/i/WGNPrimary_1@304622/master.m3u8
+#EXTINF:0 group-title="WORLD - USA" tvg-logo="https://image.xumo.com/v1/providers/provider/230/300x300.png?type=color_onBlack" , ConTV
+https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo123-contv/CDN/1280x720_2108000/chunklist.m3u8
+#EXTINF:0 group-title="WORLD - USA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/bf/Court_TV_2019.png" , Court TV
+https://content.uplynk.com/channel/92c7be9fb47143a58683d202e321e571.m3u8
+#EXTINF:0 group-title="WORLD - USA" tvg-logo="https://i.pinimg.com/736x/f8/1e/44/f81e44dd5ab4b504e7fd63fd2d378426.jpg" , DABL
+https://cbsta49f-dabl68fc.global.ssl.fastly.net/out/v1/dfecb53fbf434b6bbbfd91d8a2549381/manifest_21.m3u8
+#EXTINF:0 group-title="WORLD - USA" tvg-logo="https://pbs.twimg.com/profile_images/753326633499713536/XkCRQZtH.jpg" , DC Council Channel
+http://video.oct.dc.gov/out/u/15_12.m3u8
+#EXTINF:0 group-title="WORLD - USA" tvg-logo="https://mytvtogo.net/wp-content/uploads/2018/11/Documentaries_4U.jpg" , Documentaries 4U
+https://nimble.dashmedia.tv/onestudio/documentaries4u/playlist.m3u8
+#EXTINF:0 group-title="WORLD - USA" tvg-logo="http://www.classicartsshowcase.org/cas/wp-content/themes/cas/images/logo.png" , Classic Arts Showcase
+https://classicarts.global.ssl.fastly.net/live/cas/master_3000k.m3u8
+#EXTINF:0 group-title="WORLD - USA" tvg-name="wral" tvg-logo="https://pbs.twimg.com/profile_images/767768559279869954/Jia5gSCv_400x400.jpg" , WRAL-TV
+https://media-hls.wral.com/livehttporigin/_definst_/mp4:encoder25-medium/master.m3u8
+#EXTINF:0 group-title="WORLD - USA" tvg-name="7News Boston" tvg-logo="https://pbs.twimg.com/profile_images/727880916354355200/-n81FrYu_400x400.jpg" , 7News Boston
+https://svc-lvanvato-cxtv-whbq.cmgvideo.com/whbq/2564k/index.m3u8
+#EXTINF:0 group-title="WORLD - USA" tvg-name="Boston 25" tvg-logo="https://weekiwachee.com/wp-content/uploads/sites/16/2017/07/wfxt-25-logo-2001-2006.jpg" , Boston 25
+https://svc-lvanvato-cxtv-wfxt.cmgvideo.com/wfxt/2564k/index.m3u8
+#EXTINF:0 group-title="WORLD - USA" tvg-name="CANAL 8" , CANAL 8 US
+https://wms.shared.streamshow.it/canale8/canale8/chunklist_w1387197419.m3u8
+#EXTINF:0 group-title="WORLD - USA" tvg-name="CBN" tvg-logo="https://i.ibb.co/BZGrQkR/cbnnews.jpg" , CBN News
+http://bcliveuniv-lh.akamaihd.net/i/iptv1_1@194050/master.m3u8
+#EXTINF:0 group-title="WORLD - USA" tvg-name="Edge Sports" tvg-logo="https://20xqzw3baoah1okcnok3737p-wpengine.netdna-ssl.com/wp-content/uploads/2019/01/EDGESport.jpg" , Edge Sports USA
+https://imgedge.akamaized.net/amagi_hls_data_imgAAA2AA-edgesports/CDN/playlist.m3u8
+#EXTINF:0 group-title="WORLD - USA" tvg-name="Classic Arts Showcase" tvg-logo="https://www.classicartsshowcase.org/cas/wp-content/themes/cas/images/logo.png" , Classic Arts Showcase
+https://classicarts.global.ssl.fastly.net/live/cas/master_3000k.m3u8
+#EXTINF:0 group-title="WORLD - USA" tvg-name="Austin TV" tvg-logo="http://icons.iconarchive.com/icons/custom-icon-design/american-states/256/Texas-Flag-icon.png" , Austin TV
+http://tstv-stream.tsm.utexas.edu/hls/livestream_hi/index.m3u8
+#EXTINF:0 group-title="WORLD - USA" tvg-name="Infowars1" tvg-logo="https://i.ibb.co/PF7Yhks/infowars-2.jpg" , Infowars Live1
+https://infostream.secure.footprint.net/hls-live/infostream-infostream/_definst_/master.m3u8
